@@ -1,17 +1,17 @@
-# Hashing
+# File Hashing
 
 ## Objective
-To understand the concept of hashing and its application in cybersecurity.
+To understand file hashing and generate hash values using MD5 and SHA-1 algorithms.
 
 ## Practical Overview
-This practical focuses on understanding how data can be converted into a fixed-length hash value and how hashing is used in areas such as password protection and data integrity.
+This practical demonstrates how hash values can be generated for files using MD5 and SHA-1. Hash values can be used to verify data integrity and identify whether a file has been modified.
 
-## Tools / Technologies
-- Hashing algorithms
-- Linux / relevant lab environment
+## Algorithms Used
+- MD5
+- SHA-1
 
 ## Learning Outcome
-This practical helped me understand the basic concept of cryptographic hashing and its importance in cybersecurity.
+This practical helped me understand the concept of file hashing and the use of cryptographic hash algorithms for data integrity and verification.
 
 ## Evidence
-Screenshots and practical observations are included in this folder.
+Screenshots of the practical execution and generated hash values are included in this folder.
